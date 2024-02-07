@@ -12,6 +12,7 @@ You can read more about SQL via this article on Wikipedia.
 
 ## Resources
 .[GeeksforGeeks Roadmap](https://www.geeksforgeeks.org/sql-alter-rename/?ref=lbp)
+
 .[MySQL](https://www.mysql.com/downloads/)
 .Mode SQL Tutorial
 .MySQL
@@ -25,7 +26,7 @@ Note: In Step 4, don't check Stack Builder and MySQLAdmin 4. Check MySQL Server 
 .MySQLAdmin4
 
 ##Dataset
-.Car_sales dataset. Download it on your computer and unzip the file.
+Car_sales dataset. Download it on your computer and unzip the file.
 
 
 ## Contact
@@ -49,5 +50,18 @@ You can contact me via [linkedIn](https://linkedin.com/in/eludipo-olaoluwa)
 |13|DISTINCT Clauses and Aggregate Functions|(https://linkedin.com/in/eludipo-olaoluwa)|
 |14|ORDER BY and GROUP BY Statements|(https://linkedin.com/in/eludipo-olaoluwa)|
 |15|Video(https://youtu.be/mElBfbNTIbU?si=VDOQVopegMwQ15wu): Creating GitHub Repo and editing README file|(https://linkedin.com/in/eludipo-olaoluwa)|
-
-|16||(https://linkedin.com/in/eludipo-olaoluwa)|
+|16|Video(https://www.youtube.com/watch?v=wgRwITQHszU): Apps setup(MySQL and sqladmin4) and writing your firdt SQL query|(https://linkedin.com/in/eludipo-olaoluwa)|
+|17|Subqueries with IN nested inside WHERE,EXISTS-NOT EXISTS nested inside WHERE and nested in SELECT and FROM|(https://linkedin.com/in/eludipo-olaoluwa)|
+|18|SQL's Alias Staement and Set Operations-UNION, UNION ALL INTERSECT and EXCEPT Statements|(https://linkedin.com/in/eludipo-olaoluwa)|
+|19|Stored Routines and Syntax for Stored Procedures|(https://linkedin.com/in/eludipo-olaoluwa)|
+|20|Using SQL View|(https://linkedin.com/in/eludipo-olaoluwa)|
+|21|SQL Join Statements(Inner, Left, Right, Full, Natural and Self Joins)|(https://linkedin.com/in/eludipo-olaoluwa)|
+|22|SQL Update Statements(rollback and Comit |(https://linkedin.com/in/eludipo-olaoluwa)|
+|23|Aggregate Functions(Min, Max, Count, Avg, Sum, IFNULL)|(https://linkedin.com/in/eludipo-olaoluwa)|
+|24|Conditional Expressions and String Functions|(https://linkedin.com/in/eludipo-olaoluwa)|
+|25|Constraints and Transactions|(https://linkedin.com/in/eludipo-olaoluwa)|
+|26|Data Type Formatting Functions|(https://linkedin.com/in/eludipo-olaoluwa)|
+|27||(https://linkedin.com/in/eludipo-olaoluwa)|
+|28|LIMIT, OFFSET AND FECTH Clauses|(https://linkedin.com/in/eludipo-olaoluwa)|
+|29|LIMIT, OFFSET AND FECTH Clauses|(https://linkedin.com/in/eludipo-olaoluwa)|
+|30|LIMIT, OFFSET AND FECTH Clauses|(https://linkedin.com/in/eludipo-olaoluwa)|
